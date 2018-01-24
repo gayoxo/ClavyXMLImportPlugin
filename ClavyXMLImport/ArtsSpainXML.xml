@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mainfest>
+<version>1.1</version>
+<numberOfRecords>6</numberOfRecords>
+<records>
+<record>
+<description>Resource 1</description>
+<icon>http://clavy.fdi.ucm.es/Clavy2Data/FC9/220px-Techo_de_Altamira_(replica)-Museo_Arqueol%C3%B3gico_Nacional.jpg</icon>
+<Area gram="Spain Arts">Cantabrian</Area>
+<Period gram="Spain Arts">Prehistoric</Period>
+<Style gram="Spain Arts">Cave Painting</Style>
+</record>
+<record>
+<description>Resource 2</description>
+<icon>http://clavy.fdi.ucm.es/Clavy2Data/FC9/Baci-4s.jpg</icon>
+<Area gram="Spain Arts">Levant</Area>
+<Period gram="Spain Arts">Prehistoric</Period>
+<Style gram="Spain Arts">Cave Painting</Style>
+</record>
+<record>
+<description>Resource 3</description>
+<icon>http://clavy.fdi.ucm.es/Clavy2Data/FC9/Dolmen_Tella_(Huesca).jpg</icon>
+<Area gram="Spain Arts">Cantabrian</Area>
+<Period gram="Spain Arts">Prehistoric</Period>
+<Style gram="Spain Arts">Megalithic</Style>
+</record>
+<record>
+<description>Resource 4</description>
+<icon>http://clavy.fdi.ucm.es/Clavy2Data/FC9/Aliseda_diadema_de_tipo_ib%C3%A9rico.jpg</icon>
+<Area gram="Spain Arts">Plateau</Area>
+<Period gram="Spain Arts">Protohistoric</Period>
+<Style gram="Spain Arts">Tartesian</Style>
+</record>
+<record>
+<description>Resource 5</description>
+<icon>http://clavy.fdi.ucm.es/Clavy2Data/FC9/C%C3%A1diz_anillo_fenicio_de_Casa_del_Obispo.JPG</icon>
+<Area gram="Spain Arts">Penibaetic</Area>
+<Period gram="Spain Arts">Protohistoric</Period>
+<Style gram="Spain Arts">Phoenician</Style>
+</record>
+<record>
+<description>Resource 6</description>
+<icon>http://clavy.fdi.ucm.es/Clavy2Data/FC9/Dama_de_Ibiza_(M.A.N._Madrid)_01.jpg</icon>
+<Area gram="Spain Arts">Levant</Area>
+<Period gram="Spain Arts">Protohistoric</Period>
+<Style gram="Spain Arts">Punic</Style>
+</record>
+</records>
+</mainfest>
