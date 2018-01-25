@@ -90,11 +90,11 @@ public class LoadCollectionXML extends LoadCollection{
 			HashMap<String,CompleteGrammar> ListaGram=new HashMap<String,CompleteGrammar>();
 			
 			CompleteCollectionAndLog Salida=new CompleteCollectionAndLog();
-			CC=new CompleteCollection(dateEntrada.get(0), new Date()+"");
+			CC=new CompleteCollection("XML IMPORT", new Date()+"");
 			Salida.setCollection(CC);
 			Salida.setLogLines(new ArrayList<String>());
 			
-			String FileS = dateEntrada.get(1);
+			String FileS = dateEntrada.get(0);
 			File XMLD=new File(FileS);
 			
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -270,7 +270,6 @@ public class LoadCollectionXML extends LoadCollection{
 		if (Parametros==null)
 		{
 			ArrayList<ImportExportPair> ListaCampos=new ArrayList<ImportExportPair>();
-			ListaCampos.add(new ImportExportPair(ImportExportDataEnum.Text, "Collection Name"));
 			ListaCampos.add(new ImportExportPair(ImportExportDataEnum.File, "XML File"));
 			Parametros=ListaCampos;
 			return ListaCampos;
