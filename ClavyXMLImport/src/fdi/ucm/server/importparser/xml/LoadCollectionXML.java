@@ -52,7 +52,7 @@ public class LoadCollectionXML extends LoadCollection{
 		LoadCollectionXML.consoleDebug=true;
 		
 		ArrayList<String> AA=new ArrayList<String>();
-		AA.add("Ejemplo");
+		//AA.add("Ejemplo");
 		AA.add("ArtsSpainXML.xml");
 		
 		CompleteCollectionAndLog Salida=LC.processCollecccion(AA);
